@@ -1,0 +1,121 @@
+.header {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("/assets/Gym.jpg");
+    height: 80vh;
+    background-size: cover;
+    background-position: inherit;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+    ;
+}
+
+.navbar {
+    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.collapse {
+    background-color: black;
+    border-radius: 10px;
+}
+
+.navbar-brand img {
+    opacity: 50%;
+    border-radius: 10px;
+}
+
+.navbar-nav li a {
+    color: white !important;
+    width: 100%;
+}
+
+.navbar-toggler-icon {
+    background-color: grey !important;
+    border-radius: 6px;
+}
+
+
+/*-------------------Welcome Text ---------------------*/
+
+.welcome {
+    padding: 42px 100px;
+    margin-top: 65px;
+    background-color: white;
+    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+    color: initial;
+    border-radius: 10px;
+    ;
+}
+
+.welcome h1 {
+    color: inherit;
+}
+
+.welcome .home-btn {
+    margin-top: 10px;
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: black;
+    background-color: lightgrey;
+}
+
+
+/*---------------- Coursel ------------------*/
+
+.coursel {
+    margin: 50px;
+    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+.coursel img {
+    border-radius: 10px;
+}
+
+
+/* --------------Cards----------------------*/
+
+#workout_plans {
+    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("/assets/Gym.jpg");
+}
+
+.row {
+    margin: 40px;
+    padding: 40px;
+}
+
+
+/*-----------------About------------------------*/
+
+#about {
+    padding-top: 40px;
+    padding-bottom: 100px;
+    color: white;
+}
+
+.row {
+    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+#about .col-md-6 {
+    padding: 20px 10px;
+}
+
+#about .h1 {
+    margin: 20px auto;
+}
+
+
+/*-----------conatct form ------------*/
+
+.g-3 {
+    color: white;
+    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("/assets/Gym.jpg") no-repeat center;
+}
+
+.mainhead {
+    color: white;
+}

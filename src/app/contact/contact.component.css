@@ -1,0 +1,9 @@
+.g-3 {
+    color: white;
+    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("/assets/Gym.jpg") no-repeat center;
+}
+
+.mainhead {
+    color: white;
+}
